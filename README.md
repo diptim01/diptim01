@@ -1,5 +1,5 @@
 ### Hi there 👋
-[![Dipo's GitHub Banner](./assets/GitHubHeader.png)](https://github.com/diptim01)
+
 
 [![Dipo's GitHub stats](https://github-readme-stats.vercel.app/api?username=diptim01&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
 
